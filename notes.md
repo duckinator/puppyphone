@@ -18,11 +18,11 @@ Potential GSM modules:
 
 | Component  | Price  | Source |
 |------------|--------|--------|
-| Display    |  $5.74 | [NewEgg](https://www.newegg.com/Product/Product.aspx?Item=9SIAE0E5YM6668) |
-| Keypad     |  $7.50 | [Adafruit](https://www.adafruit.com/product/1824) |
+| Display    |  $5.74 | [NewEgg](https://www.newegg.com/Product/Product.aspx?Item=9SIAE0E5YM6668)  |
+| Keypad     |  $7.50 | [Adafruit](https://www.adafruit.com/product/1824)                          |
 | RPi Zero   |  $5.00 | [RaspberryPi.org](https://www.raspberrypi.org/products/raspberry-pi-zero/) |
 | Battery    |        | TBD.   |
-| GSM module |        | TBD.   |
+| GSM module |  $4.71 | [NewEgg](https://www.newegg.com/Product/Product.aspx?Item=9SIAE0E5YM7069)  |
 
 ## Software
 
